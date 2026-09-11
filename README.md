@@ -6,3 +6,7 @@
 - conteúdo principal (pode ser um paragrafo somente)
 - uso de constante 
 - criar um array com 5 valores de tipos diferentes e imprimir na tela todo o array separado por virgula
+
+# Para executar o código:
+- Tenha o Xamp instalado e habilite as funções Apache e MySQL dentro do app
+- Cole em seu navegador o link: localhost/nomedapasta - Exemplo: localhost/Aula02-Introducao-ao-PHP
