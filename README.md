@@ -1,5 +1,4 @@
-Entregar os arquivos em pasta zipada com o nome.
-
+# Atividade proposta
 1) Criem um arquivo header.php com um titulo. Depois incluam ele no index.php com o include_once
 
 2) Criem uma página que tenha:
