@@ -9,4 +9,5 @@
 
 # Para executar o código:
 - Tenha o Xamp instalado e habilite as funções Apache e MySQL dentro do app
-- Cole em seu navegador o link: localhost/nomedapasta - Exemplo: localhost/Aula02-Introducao-ao-PHP
+- Cole em seu navegador o link: localhost/nomedapasta - Exemplo: localhost/ExercicioPHP01
+
